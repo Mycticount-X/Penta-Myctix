@@ -1,15 +1,16 @@
 # Penta-Myctix
 
-# Undead Faction - Unit Index
-
-Daftar unit dari faksi **Undead** beserta statistik dan kemampuan spesial.
-
 ---
 
 ## 1. Hantou Ghoul
 - **HP**: 450  
 - **ATK**: 60  
 - **DEF**: 50  
+
+### Speciality:
+> When Allies around deals letal blow, enter Rage: Increases ATK by 50% and SPD by 50% for 5 turn.
+
+> Undead Behavior: Upon dealing letal blow, overheal allies around by 50 HP. Overheal up to 50% Base HP.
 
 ---
 
@@ -18,12 +19,21 @@ Daftar unit dari faksi **Undead** beserta statistik dan kemampuan spesial.
 - **ATK**: 30  
 - **DEF**: 30  
 
+### Speciality:
+> Web: Synthesis a web that can be used for immobilizing enemy or set a trap.
+
 ---
 
 ## 3. Hantou Abomination
 - **HP**: 8000  
 - **ATK**: 80  
 - **DEF**: 400  
+
+### Speciality
+> Upon death, immediatly revives for 50% HP and enters Rage. During Rage, ATK and SPD increase by 50%.
+
+> Undead Behavior: Upon dealing letal blow, overheal allies around by 50 HP. Overheal up to 50% Base HP.
+
 
 ---
 
