@@ -89,7 +89,7 @@ Hantou Flame ignores all RES (Resistance) and DEF (Defense).
 > **Death**: Upon defeat, releases a shockwave of spiritual energy dealing minor AoE damage. Ghost Lantern can be revived in the Forgotten Cementary.
 
 > **Hantou Blessing**:  
-While Ghost Lantern is on the battlefield, all allied Undead units gain **+50 ATK** and **+50% Holy RES** and **+100% All-Type RES**.
+While Ghost Lantern is on the battlefield, all allied Undead units gain **+50 ATK** and **+50% Holy RES** and **+75% All-Type RES**.
 
 ---
 
