@@ -12,6 +12,8 @@
 
 > Undead Behavior: Upon dealing letal blow, overheal allies around by 50 HP. Overheal up to 50% Base HP.
 
+> **Hantou Blessing**: Any Unit killed around this unit will revives as Undead Being. This include Ally Unit.
+
 ---
 
 ## 2. Hantou Orb Weaver
@@ -32,7 +34,11 @@
 ### Speciality
 > Upon death, immediatly revives for 50% HP and enters Rage. During Rage, ATK and SPD increase by 50%.
 
+> Smash: Deal Siege DMG around this unit and inflict Daze.
+
 > Undead Behavior: Upon dealing letal blow, overheal allies around by 50 HP. Overheal up to 50% Base HP.
+
+> **Hantou Blessing**: Decrease DMG taken by 50%. Using smash will immediatly kill any unit that have less HP than this unit.
 
 
 ---
@@ -41,6 +47,10 @@
 - **HP**: 7000  
 - **ATK**: 140  
 - **DEF**: 80  
+
+> This unit deals Siege DMG within certain radius (AoE). Have a small chance to create Poison Blast that inflict all enemies around this unit.
+
+> **Hantou Blessing**: Obtain Skill: Munch. Swallow an enemy.
 
 ---
 
@@ -51,4 +61,6 @@
 
 ### Speciality:
 > At the end of Cycle, Increase All Allies **ATK** by 5 and **DEF** by 5.
+
+> **Hantou Blessing**: This unit can now attack multiple enemies at once. Increases its attack radius by 500%.
 
