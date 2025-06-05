@@ -12,7 +12,7 @@
 
 > Undead Behavior: Upon dealing letal blow, overheal allies around by 50 HP. Overheal up to 50% Base HP.
 
-> **Hantou Blessing**: Any Unit killed around this unit will revives as Undead Being. This include Ally Unit.
+> **Hantou Blessing**: Any Unit killed around this unit will revives as Undead Being. This include Ally Unit. MXA{Cr4b_Mentality=/=}
 
 ---
 
