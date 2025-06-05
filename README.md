@@ -1,1 +1,4 @@
-> Open Branch
+```git
+git checkout branch
+
+```
